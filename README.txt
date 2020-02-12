@@ -1,0 +1,1 @@
+IDE Visual Studio Community 2017 Version 15.2
